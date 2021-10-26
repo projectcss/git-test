@@ -1,5 +1,7 @@
 .home {
-	margin: 101;
-	background-color: firebrick;
-	color: red;
+  margin: 101;
+  background-color: firebrick;
+  color: red;
+  display: flex;
+  align-items: center;
 }

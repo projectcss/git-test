@@ -1,0 +1,2 @@
+#ignore home5 directory
+home/**/*.ts

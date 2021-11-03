@@ -5,7 +5,11 @@
   display: flex;
   align-items: center;
 }
-.home{
+.home {
+  display: flex;
+  align-items: center;
+}
+.home {
   display: flex;
   align-items: center;
 }

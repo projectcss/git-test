@@ -7,3 +7,4 @@ const arr4 = [6, 7, 8];
 const arr5 = [6, 7, 8];
 const arr6 = [6, 7, 8];
 const arr7 = [6, 7, 8];
+const arr8 = [6, 7, 8];
